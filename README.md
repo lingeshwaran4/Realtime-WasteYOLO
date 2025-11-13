@@ -1,9 +1,5 @@
 # 🗑️ WasteVision — Real-Time Waste Classification using YOLO11s
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250?text=WasteVision+-+Smart+Waste+Classification+with+YOLO11s" alt="WasteVision Banner"/>
-</p>
-
 <p align="center"><b>Real-time waste detection system powered by YOLO11s and trained on Kaggle waste dataset.</b></p>
 
 <p align="center">
