@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+*.png
+*.jpg
+*.jpeg
+
+# ultralytics training cache
+runs/
+my_model/train/weights/last.pt
+my_model/train/weights/*.onnx
+my_model/train/weights/*.engine
