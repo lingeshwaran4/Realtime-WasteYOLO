@@ -94,7 +94,8 @@ Categories included:
 
 - Plastic  
 - Metal  
-- Glass  
+- Glass
+- Organic
 - Paper  
 - Cardboard  
 - Trash / Mixed waste  
